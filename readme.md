@@ -95,5 +95,5 @@ curl http://localhost:5000/balance/sender_address
 - A VM can be developed for smart contract integration.
 
 ---
-## Lisans
+## Licence
 MIT © Tuna4L
