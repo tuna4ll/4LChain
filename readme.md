@@ -9,7 +9,7 @@ The frontend is built with Next.js and React TSX. It easily communicates with th
 
 ---
 
-## Özellikler
+## Features
 
 - Basic Proof-of-Work mining algorithm
 
